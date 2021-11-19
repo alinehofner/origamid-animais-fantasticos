@@ -74,6 +74,12 @@ body {
   grid-column: 1 / 4;
 }
 
+.animais h2::before {
+  content: '';
+  display: inline-block;
+  width: 40px;
+}
+
 .animais h2 {
   font-family: 'IBM Plex Mono', monospace;
   font-size: 1rem;
