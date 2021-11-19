@@ -73,3 +73,10 @@ body {
   margin-bottom: 1rem;
   grid-column: 1 / 4;
 }
+
+.animais p {
+  font-family: Helvetica, arial;
+  line-height: 1.2;
+  margin: 1rem;
+  
+}
