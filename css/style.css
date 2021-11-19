@@ -193,4 +193,8 @@ body {
   .menu, .grid-section, .copy {
     grid-column: 1;
   }
+
+  .grid-section {
+    grid-template-columns: 100px 1fr;
+  }
 }
