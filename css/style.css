@@ -136,11 +136,16 @@ body {
   color: #E54;
 }
 
-.faq-lista::before {
+.faq-lista dt::before {
   content:'';
   display: inline-block;
   width: 20px;
   height: 10px;
   margin-right: 10px;
   background: #fb5;
+}
+
+.faq-lista dd {
+  font-family: Helvetica, arial;
+  margin-bottom: .5rem;
 }
