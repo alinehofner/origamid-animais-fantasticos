@@ -74,9 +74,18 @@ body {
   grid-column: 1 / 4;
 }
 
+.animais h2 {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  margin-bottom: 1rem;
+  color: #E54;
+}
+
 .animais p {
   font-family: Helvetica, arial;
   line-height: 1.2;
-  margin: 1rem;
-  
+  margin-bottom: 1rem;
+
 }
