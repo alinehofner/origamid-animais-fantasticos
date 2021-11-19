@@ -67,5 +67,7 @@ body {
 
 .titulo {
   font-family: 'Playfair Display SC', georgia;
-  
+  font-size: 6rem;
+  line-height: 1;
+  font-weight: 400;
 }
