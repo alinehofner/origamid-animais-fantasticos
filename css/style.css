@@ -172,3 +172,7 @@ body {
   margin-right: 10px;
   background: #fb5;
 }
+
+.copy {
+  grid-column: 3 / 5;
+}
