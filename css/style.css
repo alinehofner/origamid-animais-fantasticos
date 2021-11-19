@@ -182,4 +182,5 @@ body {
 .copy p {
   padding: 20px;
   font-family: 'IBM Plex Mono', monospace;
+  font-weight: bold;
 }
