@@ -119,3 +119,7 @@ body {
 .animais-lista::-webkit-scrollbar-track {
   background: #faf6ed;
 }
+
+.animais-descricao {
+  grid-column: 3;
+}
