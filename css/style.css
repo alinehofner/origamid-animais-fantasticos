@@ -137,5 +137,6 @@ body {
 }
 
 .faq-lista::before {
-  
+  content:'';
+  display: inline-block;
 }
