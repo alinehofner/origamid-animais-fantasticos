@@ -102,5 +102,5 @@ body {
 .animais lista {
   height: 360px;
   overflow-y: scroll;
-  
+  grid-column: 2;
 }
