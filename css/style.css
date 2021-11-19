@@ -163,3 +163,12 @@ body {
   margin-bottom: 1rem;
   font-family: Helvetica, arial;
 }
+
+.dados li::before {
+  content:'';
+  display: inline-block;
+  width: 20px;
+  height: 10px;
+  margin-right: 10px;
+  background: #fb5;
+}
