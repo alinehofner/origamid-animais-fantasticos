@@ -117,7 +117,5 @@ body {
 }
 
 .animais-lista::-webkit-scrollbar-track {
-  background: #fb5;
-  border-left:4px solid #faf6ed;
-  border-right:4px solid #faf6ed;
+  background: #faf6ed;
 }
